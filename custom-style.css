@@ -4,3 +4,6 @@
  background-size: cover;
  min-height: 150px;
 }
+::placeholder {
+	color: black !important
+}
