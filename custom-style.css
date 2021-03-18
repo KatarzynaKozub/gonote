@@ -1,28 +1,6 @@
-body{
-	font-family: Arial;
-}
-#main_header{
-	background-color: #D1FAD2;
-	padding: 10px;
-}
-input {
-	
-	border: 1px solid grey;
-	padding: 3px 5px;
-	margin-bottom: 10px;
-	border-radius: 5px;
-}
-img.main_image {
-	border-radius: 50%;
-	border: 2px solid #54C03F;
- }
-h1,h2{
-	
-	color: green;
-	font-variant: small-caps;
-}
-a{
-	color: darkgreen;
-	font-weight: bold;
-	text-decoration: none;
+.cover {
+ background-image: url("https://images.pexels.com/photos/48770/business-time-clock-clocks-48770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+ background-position: center;
+ background-size: cover;
+ min-height: 150px;
 }
